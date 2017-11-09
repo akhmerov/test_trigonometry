@@ -2,4 +2,4 @@ print('Hello, my name is Joe Weston. I am in Delft.')
 print('No, really')
 
 import numpy as np
-np.array([0]) # That is really not a useful array!
+np.array([0, 1, 3, 4]) # That is a nice array you have over there!
